@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.guosen.etcd.EtcdDiscoveryAutoConfiguration,\
+  com.guosen.etcd.discovery.EtcdDiscoveryClientAutoConfiguration,\
+  com.guosen.etcd.ribbon.RibbonEtcdAutoConfiguration
